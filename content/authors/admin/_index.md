@@ -26,7 +26,7 @@ organizations:
 - name: University of Greenwich
   url: https://www.gre.ac.uk/pegfa
   
-role: PhD candidate in Economics
+role: Lecturer in Economics
 
 social:
 - icon: envelope
@@ -49,10 +49,10 @@ superuser: true
 title: 
 ---
 
-I am a PhD candidate in Economics at the[ University of Greenwich](www.gre.ac.uk). My dissertation focuses on changes in the wage and employment structures of Western European countries.
+I am a Lecturer in Economics at the[ University of Greenwich](www.gre.ac.uk). 
 My research interests include labour economics, industrial relations and income distribution. 
 
-I have been teaching courses in macroeconomics and quantitative methods.
+I teach courses in macroeconomics, quantitative methods and research design.
 
 
 {{< icon name="download" pack="fas" >}} My {{< staticref "media/tr-rmarkdown-cv.pdf" "newtab" >}} CV{{< /staticref >}}.

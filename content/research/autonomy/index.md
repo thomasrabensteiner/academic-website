@@ -1,38 +1,22 @@
 ---
-title: "Worker autonomy and wage divergence: Evidence from European survey data"
+title: "Occupational autonomy and wage divergence: Evidence from European survey data"
 linktitle: Worker autonomy
 date: 2022-08-31
 authors: ["Thomas Rabensteiner", "Alexander Guschanski"]
 summary: 
-external_link: ""
+external_link: "https://gala.gre.ac.uk/id/eprint/37925/13/37925-GUSCHANKI-Autonomy-and-wage-divergence-evidence-from-European-survey-data.pdf"
 links:
-- name: Working paper version April 2022
-  url: pdf/autonomy-0-13.pdf
-- name: Slides May 2022
-  url: slides/autonomy-slides-may-2022.pdf
+- name: Working paper version November 2022
+  url: https://gala.gre.ac.uk/id/eprint/37925/13/37925-GUSCHANKI-Autonomy-and-wage-divergence-evidence-from-European-survey-data.pdf
+- name: Slides Jan 2023
+  url: slides/autonomy-assa-2023.pdf
 tags:
 - Inequality
 - Autonomy
 ---
 
-This paper contributes to the understanding of occupational wage inequality in Western
-Europe. We assess the effect of worker autonomy, defined as the degree of control workers
-have over their own work process, on occupational wage growth using data for 15 European
-countries from 2003 to 2018. We present econometric analyses using individual-level wage
-data from the EU Survey of Income and Living Conditions and find that real wages in
-occupations with high autonomy have grown significantly faster than in occupations with
-low autonomy. We call this finding an increase in the ‘autonomy wage premium’. Because
-workers in high autonomy occupations are at the top of the wage distribution, faster wage
-growth in these occupations has increased wage inequality. Using additional worker survey
-data, we conjecture about technological, institutional, and demographic determinants of
-the autonomy premium. Our analysis suggests that: (i) the autonomy wage premium
-increases more in industries and countries with faster technological change; (ii) strong
-collective bargaining reduces the autonomy premium, but the autonomy wage premium
-rises in countries with strong and weak collective bargaining; (iii) the autonomy wage
-premium increases more among older and more experienced workers; (iv) the autonomy
-wage premium rises for men and women similarly, but the increase in the autonomy
-premium intensifies gender inequality because women are more often employed in low
-autonomy occupations.
+  Wages in Western Europe have diverged across occupations, contributing to rising wage inequality. We propose occupational autonomy, a measure for the ease of monitoring workers, as a new predictor of differential wage growth across jobs. Using econometric analyses of individual-level wage data from the EU Survey of Income and Living Conditions from 2003 to 2018, we show that wages in high-autonomy jobs grew significantly faster than in low-autonomy jobs, leading to an increasing autonomy wage premium. Other explanations based on the idea that wages decline in occupations replaced by machines or offshored do not fit the data. Moreover, our results show that the autonomy premium increases faster in industries and countries with faster increases in computer adoption and investment in ICT technology. We also find that strong collective bargaining institutions reduce the autonomy premium but could not halt the recent increases in wage inequality. Lastly, we show that the increase in the autonomy premium contributes to wage inequality between men and women. Since higher autonomy is usually associated with higher bargaining power, our analysis is consistent with assertions that recent technological innovations are 'power-biased' and have worsened the bargaining power of low-autonomy workers.
+
 
 
 

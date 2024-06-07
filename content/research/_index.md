@@ -24,7 +24,7 @@ with Özlem Onaran and Alexander Guschanski
 
 This policy brief discusses the implications of raising collective bargaining coverage in the UK. You can also read about it in this [opinion piece in the Guardian](https://www.theguardian.com/commentisfree/article/2024/jun/04/labour-new-deal-for-working-people-employment-rights). 
 
-### Coming soon
+### In progress
 
 **Do recessions accelerate routine-biased technological change in Western Europe?**
 with Alexander Guschanski
